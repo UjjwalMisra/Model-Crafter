@@ -12,7 +12,7 @@ Model-Crafter is a Python-based tool that allows users to upload datasets, choos
 
 ## 🛠 Installation  
 Clone the repository and install dependencies:  
-```sh
+``sh
 git clone https://github.com/ujjwalmisra/Model-Crafter.git
 cd Model-Crafter
 pip install -r requirements.txt
