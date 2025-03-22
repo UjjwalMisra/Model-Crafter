@@ -1,7 +1,7 @@
-# AutoML Insight – Train & Evaluate ML Models  
+# Model-Crafter – Train & Evaluate ML Models  
 
 ## 🚀 Overview  
-AutoML Insight is a Python-based tool that allows users to upload datasets, choose machine learning algorithms, and receive detailed accuracy metrics along with visualizations. It supports both classification and regression tasks.  
+Model-Crafter is a Python-based tool that allows users to upload datasets, choose machine learning algorithms, and receive detailed accuracy metrics along with visualizations. It supports both classification and regression tasks.  
 
 ## 🔹 Features  
 - 📂 Upload and preprocess datasets (handle missing values, categorical encoding)  
